@@ -1,13 +1,13 @@
 <b> <p align="center"> BESTURINGS PRINT :</p></b>
 
-<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> | **+** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
+<a href= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> | **+** | <a href= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 **ArduinoMega2560 + Display + I2C-connector** |  | **Drukknoppen + Rotary schakelaars + connectors**
 <p>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
   
-<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBrdTN.jpg"></a> |**-** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduino.jpg">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoTN.jpg"></a>
+<a href= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf">           <img src="https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBrdTN.jpg"></a> |**-** | <a href= "https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduino.jpg">           <img src="https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoTN.jpg"></a>
 --------------------------------------------- | --- | ---------------------------------------------------
   **PCB layout** *( inner layers )* | |   **componenten v/d besturingsprint**<p>
   
