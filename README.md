@@ -11,7 +11,7 @@
 
 <b>Arie PA3A:</b> software ontwerp.
 
-<b>Costo:</b> software, co-ontwerp besturingsprint, documentatie.
+<b>Costo PA0OOO:</b> software, co-ontwerp besturingsprint, documentatie.
 <hr>
 
 <p><a href="https://github.com/PI4DEC/Meetzender/blob/master/documentation/besturings_print.md"><b>Besturings print</b></a></p>
