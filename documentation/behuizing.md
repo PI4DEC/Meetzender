@@ -2,6 +2,6 @@
 
 Wordt nog aan gewerkt
 
-![](behuizing/behuizing.jpg)
+![](behuizing/test_behuizing.jpg)
 
 laser uitsnijden behuizing
